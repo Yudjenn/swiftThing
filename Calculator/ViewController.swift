@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     var firstNumber: Double = 0
     var Mathing: Bool = false
     var operation = 0
+    var hello: String = "hi"
     var point: Bool = false
     var neg: Bool = false
     
